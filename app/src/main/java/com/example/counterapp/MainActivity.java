@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //The function worked because her and the "faten" is out of the scope
     public int IncreseCounter(){
         return ++faten;
     }
